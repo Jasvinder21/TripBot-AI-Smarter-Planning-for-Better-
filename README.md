@@ -10,4 +10,4 @@ AI-Powered Travel Assistant
 
 ![image](https://github.com/user-attachments/assets/3a046883-0069-4c23-8014-6353f98be1cb)
 
-![image](https://github.com/user-attachments/assets/3afdc580-e06a-4573-8cae-f5dc32c54215)
+![image](https://github.com/user-attachments/assets/1d34e4bd-17e8-42b8-8e69-8cf95e2501dd)
